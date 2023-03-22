@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(103, 103, 181);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+
+}
+
+section{
+    background: honeydew;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 2px 2px 5px rgb(202, 34, 93);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
